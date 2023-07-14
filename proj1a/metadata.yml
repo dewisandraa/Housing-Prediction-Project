@@ -1,0 +1,12 @@
+---
+:id: 140847741
+:submitters:
+- :name: Dewi Sandra
+  :email: dewisandra@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-14 05:59:18.916575000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-13 22:59:18.916575000 Z
+:status: processed
+:score: 19.0
